@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Earl Francis Villarias, I am a 2nd-Year Student in Technological University of the Philippines Visayas
 - 👀 I’m interested in Photography, Film, and Coding
 - 🌱 I’m currently learning html, css, and javascript
-- 📫 How to reach me earlvillariaswork@gmail.com
+- 📫 How to reach me - earlvillariaswork@gmail.com
